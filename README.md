@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
 ![Open Issues](https://img.shields.io/github/issues/DireMonkey13/1116-library-pipeline)
-![Open PRs](https://img.shields.io/github/issues-pr/DireMonkey13/1116-library-pipeline
+![Open PRs](https://img.shields.io/github/issues-pr/DireMonkey13/1116-library-pipeline)
 ![Last Commit](https://img.shields.io/github/last-commit/DireMonkey13/1116-library-pipeline)
 ![CI Pipeline Badge](https://github.com/DireMonkey13/1116-library-pipeline/actions/workflows/ci.yml/badge.svg)
 
