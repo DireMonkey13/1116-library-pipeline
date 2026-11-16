@@ -8,8 +8,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/DireMonkey13/1116-library-pipeline)
 ![CI Pipeline Badge](https://github.com/DireMonkey13/1116-library-pipeline/actions/workflows/ci.yml/badge.svg)
 
-<mark>*Replace the placeholder text above with your GitHub username and repo name*</mark>
-
 ## Project Overview
 [TODO: Describe the library's data quality problem]
 
