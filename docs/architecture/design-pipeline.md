@@ -1,5 +1,6 @@
 # Pipeline Architecture Diagram
 ```mermaid
+
 %% Catalogue
 CatRaw[Raw Catalogue data] --> CatBronze[Catalogue Bronze]
 CatBronze --> CatCheck{Quality Check and Load}
